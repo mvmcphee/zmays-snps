@@ -6,4 +6,5 @@ I don't know what is going on
 samples expected from sequencing core 2013-01-10
 
 
-Maize reference genome version: refgen3
+we downloaded refgen3 on 2013-01-04.
+
